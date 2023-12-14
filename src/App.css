@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.A{
+    position: relative;
+    margin: 14rem 30rem 12.5rem 35rem;
+    font-size: 3rem;
+    color: rgb(2, 62, 116);
+    border: 5px solid white;
+    padding: 2rem;
+}
+p{
+    position: absolute;
+    font-size: 15rem;
+    color: white;
+    margin-left: 590px;
+    margin-top: -190px;
+}
+button{
+    font-size: 5rem;
+    border: 2px solid white;
+    background-color: rgb(2, 62, 116);
+    color: white;
+    padding: 0rem 4rem;
+    margin-left: 2rem;
+}
